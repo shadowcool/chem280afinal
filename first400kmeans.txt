@@ -1,0 +1,21 @@
+"x"
+"Case1" 1
+"Case2" 2
+"Case3" 2
+"Case4" 1
+"Case5" 2
+"Case6" 2
+"Case7" 2
+"Case8" 1
+"Case9" 1
+"Case10" 1
+"Control1" 1
+"Control2" 1
+"Control3" 1
+"Control4" 1
+"Control5" 1
+"Control6" 1
+"Control7" 1
+"Control8" 1
+"Control9" 1
+"Control10" 1

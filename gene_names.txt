@@ -1,0 +1,82 @@
+ENTREZ_GENE_ID, RGD_ID	Name	Species
+5349	FXYD domain containing ion transport regulator 3(FXYD3)	Homo sapiens
+1490	connective tissue growth factor(CTGF)	Homo sapiens
+8529	cytochrome P450 family 4 subfamily F member 2(CYP4F2)	Homo sapiens
+285025	coiled-coil domain containing 141(CCDC141)	Homo sapiens
+389541	late endosomal/lysosomal adaptor, MAPK and MTOR activator 4(LAMTOR4)	Homo sapiens
+162963	zinc finger protein 610(ZNF610)	Homo sapiens
+135112	nuclear receptor coactivator 7(NCOA7)	Homo sapiens
+79623	polypeptide N-acetylgalactosaminyltransferase 14(GALNT14)	Homo sapiens
+12	serpin family A member 3(SERPINA3)	Homo sapiens
+1908	endothelin 3(EDN3)	Homo sapiens
+140462	ankyrin repeat and SOCS box containing 9(ASB9)	Homo sapiens
+9899	synaptic vesicle glycoprotein 2B(SV2B)	Homo sapiens
+5973	renin binding protein(RENBP)	Homo sapiens
+1358	carboxypeptidase A2(CPA2)	Homo sapiens
+5967	regenerating family member 1 alpha(REG1A)	Homo sapiens
+563	alpha-2-glycoprotein 1, zinc-binding(AZGP1)	Homo sapiens
+100507064	TEX26 antisense RNA 1(TEX26-AS1)	Homo sapiens
+307	annexin A4(ANXA4)	Homo sapiens
+23643	lymphocyte antigen 96(LY96)	Homo sapiens
+26034	interaction protein for cytohesin exchange factors 1(IPCEF1)	Homo sapiens
+8908	glycogenin 2(GYG2)	Homo sapiens
+11082	endothelial cell specific molecule 1(ESM1)	Homo sapiens
+221395	adhesion G protein-coupled receptor F5(ADGRF5)	Homo sapiens
+29969	MyoD family inhibitor domain containing(MDFIC)	Homo sapiens
+140701	abhydrolase domain containing 16B(ABHD16B)	Homo sapiens
+51365	phospholipase A1 member A(PLA1A)	Homo sapiens
+290	alanyl aminopeptidase, membrane(ANPEP)	Homo sapiens
+10343	polycystin (PKD) family receptor for egg jelly(PKDREJ)	Homo sapiens
+1266	calponin 3(CNN3)	Homo sapiens
+29842	transcription factor CP2 like 1(TFCP2L1)	Homo sapiens
+771	carbonic anhydrase 12(CA12)	Homo sapiens
+10125	RAS guanyl releasing protein 1(RASGRP1)	Homo sapiens
+91582	ribosomal protein S19 binding protein 1(RPS19BP1)	Homo sapiens
+9750	family with sequence similarity 65 member B(FAM65B)	Homo sapiens
+6425	secreted frizzled related protein 5(SFRP5)	Homo sapiens
+131096	potassium voltage-gated channel subfamily H member 8(KCNH8)	Homo sapiens
+643911	colorectal neoplasia differentially expressed (non-protein coding)(CRNDE)	Homo sapiens
+5646	protease, serine 3(PRSS3)	Homo sapiens
+7113	transmembrane protease, serine 2(TMPRSS2)	Homo sapiens
+10263	cyclin dependent kinase 2 associated protein 2(CDK2AP2)	Homo sapiens
+27429	HtrA serine peptidase 2(HTRA2)	Homo sapiens
+9023	cholesterol 25-hydroxylase(CH25H)	Homo sapiens
+1840	deltex E3 ubiquitin ligase 1(DTX1)	Homo sapiens
+101929550	uncharacterized LOC101929550(LOC101929550)	Homo sapiens
+1164	CDC28 protein kinase regulatory subunit 2(CKS2)	Homo sapiens
+10930	apolipoprotein B mRNA editing enzyme catalytic subunit 2(APOBEC2)	Homo sapiens
+28513	cadherin 19(CDH19)	Homo sapiens
+10924	sphingomyelin phosphodiesterase acid like 3A(SMPDL3A)	Homo sapiens
+64881	protocadherin 20(PCDH20)	Homo sapiens
+55796	muscleblind like splicing regulator 3(MBNL3)	Homo sapiens
+6514	solute carrier family 2 member 2(SLC2A2)	Homo sapiens
+54810	GIPC PDZ domain containing family member 2(GIPC2)	Homo sapiens
+8459	tyrosylprotein sulfotransferase 2(TPST2)	Homo sapiens
+3486	insulin like growth factor binding protein 3(IGFBP3)	Homo sapiens
+29951	PDZ domain containing ring finger 4(PDZRN4)	Homo sapiens
+163782	KN motif and ankyrin repeat domains 4(KANK4)	Homo sapiens
+26577	procollagen C-endopeptidase enhancer 2(PCOLCE2)	Homo sapiens
+8842	prominin 1(PROM1)	Homo sapiens
+6357	C-C motif chemokine ligand 13(CCL13)	Homo sapiens
+5105	phosphoenolpyruvate carboxykinase 1(PCK1)	Homo sapiens
+84677	Down syndrome critical region 8(DSCR8)	Homo sapiens
+54947	lysophosphatidylcholine acyltransferase 2(LPCAT2)	Homo sapiens
+5104	serpin family A member 5(SERPINA5)	Homo sapiens
+1057	carboxyl ester lipase pseudogene(CELP)	Homo sapiens
+10066	secretory carrier membrane protein 2(SCAMP2)	Homo sapiens
+1672	defensin beta 1(DEFB1)	Homo sapiens
+1809	dihydropyrimidinase like 3(DPYSL3)	Homo sapiens
+4837	nicotinamide N-methyltransferase(NNMT)	Homo sapiens
+729	complement C6(C6)	Homo sapiens
+116496	family with sequence similarity 129 member A(FAM129A)	Homo sapiens
+23566	lysophosphatidic acid receptor 3(LPAR3)	Homo sapiens
+57007	atypical chemokine receptor 3(ACKR3)	Homo sapiens
+100506699	uncharacterized LOC100506699(LOC100506699)	Homo sapiens
+57402	S100 calcium binding protein A14(S100A14)	Homo sapiens
+84937	zinc and ring finger 1(ZNRF1)	Homo sapiens
+1208	colipase(CLPS)	Homo sapiens
+602	B-cell CLL/lymphoma 3(BCL3)	Homo sapiens
+486	FXYD domain containing ion transport regulator 2(FXYD2)	Homo sapiens
+144501	keratin 80(KRT80)	Homo sapiens
+57393	transmembrane protein 27(TMEM27)	Homo sapiens
+4852	neuropeptide Y(NPY)	Homo sapiens
